@@ -1,6 +1,6 @@
 ## Netflix
 - Netflix using HTML, CSS, and JavaScript
-- 
+
 # Live demo 
 - [Netflix](https://stoic-ptolemy-f8e42c.netlify.app/login.html)
 
